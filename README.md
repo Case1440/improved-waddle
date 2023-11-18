@@ -2,7 +2,7 @@
 
 ## General Info
 
-Deployed Link: https://case1440.github.io/animated-octo-computing-machine/
+Deployed Link: https://case1440.github.io/improved-waddle/
 
 Public Github Repo: https://github.com/Case1440/improved-waddle
 
