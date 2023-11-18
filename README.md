@@ -37,7 +37,7 @@ The Project was created with:
 
 ## Screenshots
 
-![Alt text](https://github.com/Case1440/animated-octo-computing-machine/blob/main/assets/images/screenshots/Screenshot%20(2).png)
+![Alt text](https://github.com/Case1440/improved-waddle/blob/main/Screenshot%202023-11-17%20231859.png)
 
 
 ## Summary
